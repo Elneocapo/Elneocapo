@@ -1,11 +1,10 @@
 ## Hi there 👋
-<body style="background-color: red;">
 <p>Hey</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,unity,kali" />
   </a>
-</p></body>
+</p>
 <!--
 **Elneocapo/Elneocapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
