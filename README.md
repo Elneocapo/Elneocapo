@@ -2,7 +2,7 @@
 <p>Hey</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,py,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,unity" />
   </a>
 </p>
 <!--
