@@ -13,17 +13,19 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mint" width="48"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fl-studio.png" width="48"/>
-  <br/>
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-3.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-2.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-2.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-2.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-2.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-2.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>&nbsp;&nbsp;
-  <img src="./assets/progress/progress-4.svg" width="48" height="450"/>
+</p>
+
+<p align="center">
+  <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-3.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-1.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-3.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-4.svg" width="48" height="180"/>
 </p>
