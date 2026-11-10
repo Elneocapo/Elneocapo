@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="180" viewBox="0 0 48 180">
+  <defs>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#64748b"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="progress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="0.55" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#15803d"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect x="0" y="0" width="48" height="180" rx="10" ry="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="48" height="180" fill="url(#track)"/>
+    <rect x="0" y="0" width="48" height="180" fill="url(#progress)"/>
+    <rect x="5" y="5" width="3" height="170" rx="1.5" fill="#ffffff" opacity="0.20"/>
+    <rect x="1" y="1" width="46" height="178" rx="9" ry="9" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1"/>
+  </g>
+</svg>
