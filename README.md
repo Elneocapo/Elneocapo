@@ -7,6 +7,7 @@
   <img src="https://skillicons.dev/icons?i=py" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ruby" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=unity" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ae" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=blender" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kali" width="48"/>&nbsp;&nbsp;
@@ -22,6 +23,7 @@
   <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-1.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-1.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-3.svg" width="48" height="180"/>&nbsp;&nbsp;
