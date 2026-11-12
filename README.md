@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=py" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ruby" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=unity" width="48"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=csharp" width="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ae" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=blender" width="48"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" width="48"/>&nbsp;&nbsp;
