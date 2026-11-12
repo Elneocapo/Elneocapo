@@ -21,7 +21,7 @@
   <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-1.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-4.svg" width="48" height="180"/>&nbsp;&nbsp;
-  <img src="./progress-1.svg" width="48" height="180"/>&nbsp;&nbsp;
+  <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-2.svg" width="48" height="180"/>&nbsp;&nbsp;
   <img src="./progress-3.svg" width="48" height="180"/>&nbsp;&nbsp;
